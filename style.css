@@ -1,0 +1,148 @@
+section {
+    height: 500px;
+    padding-bottom: 150px;
+}
+
+
+.purple-highlight {
+    color: rgb(83, 36, 255);
+}
+
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+
+}
+
+h1{
+    font-family: 'Oswald', sans-serif;
+    font-size: 50px;
+    color: rgba(2, 2, 34, 0.836);
+}
+
+#h1title{
+    font-size: 80px;
+    font-family: 'Oswald', sans-serif;
+    margin-bottom: -50px;
+}
+
+h2{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+    text-align: left;
+    color: rgba(2, 2, 34, 0.836);
+}
+
+
+
+.half-width{
+    
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+
+    padding-left: 1%;
+    padding-right: 1%;
+}
+}
+
+.half-width img {
+    width: 100%;
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(#5624ca,#764ba2);
+    padding: 30px 80px ;
+    border-radius: 15px;
+    color: white;
+    font-weight: 700;
+}
+
+.link-button-chat{
+    text-decoration: none;
+    background-image: linear-gradient(#ca2924,#ee7732);
+    padding: 30px 80px ;
+    border-radius: 15px;
+    color: white;
+    font-weight: 700;
+}
+
+
+.one-third-width{
+
+    width: 20%;
+    float: right;
+    padding: 2%;
+    margin: 60px;
+}
+
+.card{
+
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 15px;
+    height: 60%;
+}
+
+.card img{
+    width: 100%;
+}
+
+.full-width{
+
+    width: 80%;
+    float: left;
+    padding: 2%;
+    margin: 60px;
+}
+
+
+
+
+.work-inquiry{
+
+    background-image: url("images/Group_33094_1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#middletxt {
+    text-align: center;
+}
+
+
+
+
+h3{
+    font-size: 20PX;
+
+}
+
+footer {
+    text-align: center;
+}
+
+.small-text{
+    font-size: 20px;
+    color: rgb(122, 122, 122);
+    
+}
+.email{
+
+    font-family: 'Oswald', sans-serif;
+    font-size: 55px;
+    color: rgba(2, 2, 34, 0.836);
+    
+}
+
+#work-text{
+    
+    float: left;
+    margin-top: 300px;
+    margin-left: 40%;
+    padding-left: 2%;
+    color: rgba(255, 255, 255, 0.836);
+}
+
+
